@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9fcfc966.css",
+    "main.js": "./static/js/main.d936b578.js",
+    "static/media/ingridp.JPG": "./static/media/ingridp.a1bce0b4c791466f8f1c.JPG",
+    "static/media/arriba.png": "./static/media/arriba.f6afa9c60b027369f79b.png",
+    "static/media/misscan.png": "./static/media/misscan.d62a0972f3172710638f.png",
+    "static/media/viplant.png": "./static/media/viplant.994c6cdcace6ffc3e2fc.png",
+    "index.html": "./index.html",
+    "main.9fcfc966.css.map": "./static/css/main.9fcfc966.css.map",
+    "main.d936b578.js.map": "./static/js/main.d936b578.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fcfc966.css",
+    "static/js/main.d936b578.js"
+  ]
+}
